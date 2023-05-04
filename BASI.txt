@@ -1,0 +1,47 @@
+<html>
+       <head>
+                <title>     pizza shop 2.0   </title>
+        </head>
+<body  bgcolor="green">
+      <h1>  titolo  </h1>
+      <h2>  titolo    </h2>
+                 .......................
+     <h6>   titolo  <h6>      <br>
+
+     <p  align=center>  		 questo e un paragrafo di prova
+   			per la classe 2B info
+   		presentazione del giorno 5 marzo 2014           </p> <br>
+
+      <p  align=right>		questo e un paragrafo di prova  <br>
+   		per la classe 2b INFO
+   			presentazione del giorno 5 MARZO 2014       </p>  <br>
+
+      <p><font  COLOR =black  FACE=arial  SIZE=6>      arial           </font>       </p>  <br>
+
+     <p>     	<u> arial </u>   <br>
+     	<b>  arial  </b>  </br>
+      	<i>  arial  </i>  </br>      </p>  <br>
+
+    <ol>   	<li>   milano             </li>
+   	<li>   roma                </li>
+   	<li>   firenze              </li>    </ol>
+
+    <ul>   	<li>   milano             </li>
+   	<li>   roma                </li>
+   	<li>   firenze              </li>    </ul>   <br>
+
+    <img   src="balloon.bmp" / > 
+     <a href=http://www.google.com> GOOGLE   </a>
+	
+	 <select>
+	    <option>  a
+	    <option>  b
+	    <option>  c
+	    <option>  d
+	 
+	 </select>
+	 
+	 
+</body>
+
+</html>
